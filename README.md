@@ -11,6 +11,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-3977A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-2CB044?style=for-the-badge&logo=Fiddler)
 ![AndroidStudio](https://img.shields.io/badge/-Android_Studio-69AD5E2CB044?style=for-the-badge&logo=Android&logoColor=FFFFFF)
-![DaVinciResolve](https://img.shields.io/badge/-DaVinci_Resolve-233A51?style=for-the-badge&logo=DaVinci_Resolve)
+![DaVinciResolve](https://img.shields.io/badge/-DaVinci_Resolve-233A51?style=for-the-badge&logo=DaVinciResolve)
 
 Follow me
