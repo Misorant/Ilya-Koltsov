@@ -5,7 +5,7 @@
 
 ### Languages and Tools
 ![Jira](https://img.shields.io/badge/-Jira-2151C5?style=for-the-badge&logo=Jira)
-![TestIT](https://img.shields.io/badge/-TestIT-4874BF?style=for-the-badge&logo=https://github.com/Misorant/Ilya-Koltsov/blob/main/assets/testit_logo_icon_blue.png)
+![TestIT](https://img.shields.io/badge/-TestIT-4874BF?style=for-the-badge&logo=https://github.com/Misorant/Ilya-Koltsov/blob/main/assets/TestIt%20logo.txt)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-FCDC00?style=for-the-badge&logo=SoapUI)
 ![MySQL](https://img.shields.io/badge/-MySQL-3977A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
