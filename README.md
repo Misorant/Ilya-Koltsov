@@ -3,6 +3,7 @@
 
 ## I'm a Junior QA Engeneer
 
-Languages and Tools
+### Languages and Tools
+[![Jira](https://img.shields.io/badge/-Jira-2151C5?style=for-the-badge&logo=Jira)
 
 Follow me
